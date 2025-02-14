@@ -1,0 +1,33 @@
+Subject: Key Insights and Recommendations for Customer Retention
+
+Dear Janet,
+
+I hope you're doing well. Based on my analysis of the Customer Retention report, here are the key findings and suggested improvements:
+
+Key Insights:
+1. High Churn Rate: 
+The overall churn rate stands at 26.54%, with electronic check users being the most likely to churn (1,071 churned customers).
+2. Contract Type Influence: 
+Month-to-month contracts account for 55% of customers (3,880 out of 7,043), with a significantly higher churn rate than annual contracts.
+3. Senior Citizen Retention: 
+Senior citizens make up 16.2% of retained customers, with lower retention compared to younger demographics.
+4. Internet Service Impact: 
+Fibre optic users have the highest churn, accounting for 69.4% of churned customers.
+5. Paperless Billing: 
+Customers opting for paperless billing churn at a higher rate (74.9%) than those who don’t.
+
+
+Recommendations:
+1. Contract Length Strategies: 
+Introduce incentives for month-to-month users to switch to annual contracts, such as discounts or added perks.
+2. Senior Citizen Engagement: 
+Offer customized plans or discounts tailored to senior citizens to improve retention.
+3. Payment Method Optimization: 
+Investigate why electronic check users churn more and consider offering alternative, seamless payment options.
+4. Fibre Optic User Retention: 
+Conduct surveys to understand dissatisfaction among fibre optic users and improve service quality.
+5. Paperless Billing Communication: 
+Ensure better communication and education for customers opting for paperless billing to reduce churn.
+
+Best regards,
+Dolly Gupta
