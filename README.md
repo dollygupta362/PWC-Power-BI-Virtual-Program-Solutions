@@ -6,7 +6,9 @@ This repository contains Power BI dashboards, datasets, and documentation create
 
 ### **Task 1: Introduction**
 **Description:** This task required explaining my motivation for participating in the PwC Switzerland job simulation on Forage.
+
 **What I Did:** I provided a detailed response highlighting my interest in data analytics, Power BI, and gaining real-world experience.
+
 **File Name:** `Introduction - PWC (Task 1).txt`
 
 ---
