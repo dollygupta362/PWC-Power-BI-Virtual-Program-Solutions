@@ -25,6 +25,7 @@ This repository contains Power BI dashboards, datasets, and documentation create
 - **Efficiency:** Becky had the lowest average speed of answer, indicating faster response times.
 
 **Dashboard:** `Call Centre Report - PWC (Task 2).pbix`
+
 **Report:** `Call Centre Report - PWC (Task 2).pdf`
 
 ---
@@ -48,7 +49,9 @@ This repository contains Power BI dashboards, datasets, and documentation create
 - Offer incentives for customers to switch to longer-term contracts.
 
 **Dashboard:** `Customer Retention Report - PWC (Task 3).pbix`
+
 **Report:** `Customer Retention Report - PWC (Task 3).pdf`
+
 **Email:** `Customer Retention Mail - PWC (Task 3).txt`
 
 ---
@@ -68,6 +71,7 @@ This repository contains Power BI dashboards, datasets, and documentation create
 - **Performance Ratings:** Average performance ratings improved slightly from FY19 to FY20 across most age groups.
 
 **Dashboard:** `Diversity and Inclusion Report - PWC (Task 4).pbix`
+
 **Report:** `Diversity and Inclusion Report - PWC (Task 4).pdf`
 
 ---
